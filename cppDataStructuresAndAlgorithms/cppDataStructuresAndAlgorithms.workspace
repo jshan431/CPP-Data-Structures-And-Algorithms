@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cppDataStructuresAndAlgorithms" Database="" Version="10000">
+  <Project Name="Big0" Path="Big0/Big0.project" Active="No"/>
+  <Project Name="PointersAndClasses" Path="Pointers/Pointers.project" Active="No"/>
+  <Project Name="LinkedList" Path="LinkedList/LinkedList.project" Active="No"/>
+  <Project Name="DoublyLinkedList" Path="DoublyLinkedList/DoublyLinkedList.project" Active="No"/>
+  <Project Name="Stacks" Path="Stacks/Stacks.project" Active="No"/>
+  <Project Name="Queues" Path="Queues/Queues.project" Active="No"/>
+  <Project Name="BinarySearchTrees" Path="Trees/Trees.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Big0" ConfigName="Debug"/>
+      <Project Name="PointersAndClasses" ConfigName="Debug"/>
+      <Project Name="LinkedList" ConfigName="Debug"/>
+      <Project Name="DoublyLinkedList" ConfigName="Debug"/>
+      <Project Name="Stacks" ConfigName="Debug"/>
+      <Project Name="Queues" ConfigName="Debug"/>
+      <Project Name="BinarySearchTrees" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Big0" ConfigName="Release"/>
+      <Project Name="PointersAndClasses" ConfigName="Release"/>
+      <Project Name="LinkedList" ConfigName="Release"/>
+      <Project Name="DoublyLinkedList" ConfigName="Release"/>
+      <Project Name="Stacks" ConfigName="Release"/>
+      <Project Name="Queues" ConfigName="Release"/>
+      <Project Name="BinarySearchTrees" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

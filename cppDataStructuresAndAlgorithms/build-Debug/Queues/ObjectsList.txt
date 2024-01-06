@@ -1,0 +1,1 @@
+../build-Debug/Queues/src_Queue_Queue.cpp.o ../build-Debug/Queues/src_Node_Node.cpp.o ../build-Debug/Queues/main.cpp.o

@@ -1,0 +1,1 @@
+../build-Debug/DoublyLinkedList/main.cpp.o ../build-Debug/DoublyLinkedList/src_DoublyLinkedList_DoublyLinkedList.cpp.o ../build-Debug/DoublyLinkedList/src_Node_Node.cpp.o
