@@ -6,7 +6,9 @@
   <Project Name="DoublyLinkedList" Path="DoublyLinkedList/DoublyLinkedList.project" Active="No"/>
   <Project Name="Stacks" Path="Stacks/Stacks.project" Active="No"/>
   <Project Name="Queues" Path="Queues/Queues.project" Active="No"/>
-  <Project Name="BinarySearchTrees" Path="Trees/Trees.project" Active="Yes"/>
+  <Project Name="BinarySearchTrees" Path="Trees/Trees.project" Active="No"/>
+  <Project Name="HashTables" Path="HashTables/HashTables.project" Active="No"/>
+  <Project Name="Graphs" Path="Graphs/Graphs.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +19,8 @@
       <Project Name="Stacks" ConfigName="Debug"/>
       <Project Name="Queues" ConfigName="Debug"/>
       <Project Name="BinarySearchTrees" ConfigName="Debug"/>
+      <Project Name="HashTables" ConfigName="Debug"/>
+      <Project Name="Graphs" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -27,6 +31,8 @@
       <Project Name="Stacks" ConfigName="Release"/>
       <Project Name="Queues" ConfigName="Release"/>
       <Project Name="BinarySearchTrees" ConfigName="Release"/>
+      <Project Name="HashTables" ConfigName="Release"/>
+      <Project Name="Graphs" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
